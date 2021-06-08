@@ -1,0 +1,14 @@
+{
+  "alan": {
+    "username": "jack",
+    "password": "1",
+    "mfaSecret": "4QXTPDMIUJL2LT6QS56YPQQ",
+    "mfaEnabled": true
+  },
+  "jhon": {
+    "username": "jill",
+    "password": "2",
+    "mfaSecret": "4QXTPDMIUJL2LT6QS56YPQQ",
+    "mfaEnabled": true
+  }
+}
