@@ -31,7 +31,7 @@
     ```
     Hello, jill. Logout
 
-    Congradulations, multi factor authentication is enabled.
+    Congratulations, multi factor authentication is enabled.
     ```
 
 8. Click logout will take you to login screen
